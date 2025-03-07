@@ -13,6 +13,7 @@ Berikut teman-teman saya di kelas :
 - [Fathan Mubina] (https://fathan-mubina.github.io/)
 - [Firdhila Ananda] (https://firdhilaananda.github.io)
 - [Hafidz Maulana] (https://hafidzmaulana28.github.io/)
+- [Hamizan Putra Zulia] (https://hamizan18.github.io/)
 - [Hayzar Muhaiyar] (https://hayzarmuhaiyar0101.github.io/)
 - [Irfandi] (https://irfandi8.github.io/)
 - [Iqbal Sayuti] (https://iqbalsayuti0.github.io/)
