@@ -21,7 +21,7 @@ Berikut teman-teman saya di kelas :
 13. [Iqbal Sayuti](https://iqbalsayuti0.github.io/)
 14. [Imam Nawawi](https://imamnawawi1c.github.io/)
 15. [Ilham Syahdienar](https://ilhamdienar.github.io/)
-16.. [Izzati Nurvira](https://izzati31.github.io/)
+16. [Izzati Nurvira](https://izzati31.github.io/)
 17. [Jelita Anggraini](https://jexiee99.github.io/)
 18. [Kaisan Nurwaled](https://kaisan969.github.io/)
 19. [Khairatil Aini](https://khairatilaini.github.io/)
