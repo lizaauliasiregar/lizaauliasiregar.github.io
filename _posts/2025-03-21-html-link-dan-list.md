@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "HTML LInk dan Lists"
+title: "HTML Link dan Lists"
 ---
 
 Penjelasan tentang link dan list pada HTML.
 
-![HTML_Link_dan_LIstet](/assets/images/inikucing.jpg)
+![HTML_Link_dan_Listet](/assets/images/inikucing.jpg)
