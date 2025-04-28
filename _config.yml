@@ -2,5 +2,5 @@ url: 'https://github.com/lizaauliasiregar/lizaauliasiregar.github.io'
 
 plugins:
  - jekyll-feed
- - jekyll sitemap
+ - jekyll-sitemap
  - jekyll-seo-tag

@@ -3,7 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <title> {{ page.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseur }}/assets/css/styles.css">
+    <link rel="stylesheet" 
+    href="{{ site.baseurl }}/assets/css/styles.css">
+
+   <!-- JavaScript -->
+    <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>
+
+    <!-- plugins -->
+     {% feed_meta %}
+     {% seo %}
 </head>
 <body>
     {% include navigation.html %}
