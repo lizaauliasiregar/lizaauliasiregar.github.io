@@ -1,5 +1,5 @@
-$primary-color: #6e1c17;
-$secondary-color: #fb0557;
+$primary-color: #380c35;
+$secondary-color: #e694ee;
 $font-stack: Helvetica, sans-serif;
 
 body,
@@ -11,27 +11,27 @@ p {
 
 body {
     font-family: $font-stack; line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #ca90c581;
 }
 
 header {
-    text-align: center; padding: 24px; color: #fff;
+    text-align: center; padding: 24px; color: #ecebe7;
     background-color: $primary-color;
 }
 
 main {
     padding: 24px; margin-top: 24px;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-    background-color: #fff;
+    background-color: #ebc5eed0;
 }
 
 footer {
-    text-align: center; padding: 8px; margin-top: 24px; color: #fff;
+    text-align: center; padding: 8px; margin-top: 24px; color: #d6aeeb;
     background-color: $primary-color;
 }
 
 h2 {
-    color: #333; margin-bottom: 8px;
+    color: #426569; margin-bottom: 8px;
 }
 
 nav {
@@ -43,7 +43,7 @@ nav {
     li {
         float: left;
         a {
-            display: block; color: white; text-align: center; padding: 8px 16px;
+            display: block; color: rgb(247, 236, 242); text-align: center; padding: 8px 16px;
             text-decoration: none;
             &:hover:not(.active) {
                 background-color: $secondary-color;
@@ -53,13 +53,22 @@ nav {
 }
 
 .container {
-    width: 80%; margin: auto; overflow: hidden;
+    width: 50%; margin: 50px auto; overflow: hidden;
+    padding: 50px;
+    border-radius: 17px; background-color: #ae47b8b2;
+    box-shadow: 0 4px 12px rgba(175, 39, 202, 0.952);
+
 }
 
 .profile-picture {
-    width: 150px; height: 150px; border-radius: 50%; margin: 24px auto;
+    width: 170px; height: 170px; border-radius: 50%; margin: 24px auto;
     background-color: $secondary-color;
 }
+.profile-picture {
+    box-shadow: 0 4px 12px rgb(245, 6, 165);
+    border: 8px solid $primary-color;
+}
+
 
 .active {
     background-color: $secondary-color;
