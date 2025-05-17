@@ -8,7 +8,7 @@ p {
 }
 
 body {
-  font-family: Helvetica, sans-serif;
+  font-family: Microsoft YaHei UI;
   line-height: 1.6;
   background-color: rgba(202, 144, 197, 0.5058823529);
 }
@@ -17,12 +17,14 @@ header {
   text-align: center;
   padding: 24px;
   color: white;
+  border-radius: 25px;
   background-color: #380c35;
 }
 
 main {
   padding: 24px;
   margin-top: 24px;
+  border-radius: 25px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
   background-color: rgba(235, 197, 238, 0.8156862745);
 }
@@ -48,6 +50,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+  border-radius: 50px;
   background-color: #380c35;
 }
 nav li {
@@ -58,6 +61,7 @@ nav li a {
   color: rgb(247, 236, 242);
   text-align: center;
   padding: 8px 16px;
+  border-radius: 50px;
   text-decoration: none;
 }
 nav li a:hover:not(.active) {
