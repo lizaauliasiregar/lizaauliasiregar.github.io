@@ -71,7 +71,7 @@ nav li a:hover:not(.active) {
 }
 
 .container {
-  width: 50%;
+  width: 90%;
   margin: auto;
   overflow: hidden;
   padding: 20px;
