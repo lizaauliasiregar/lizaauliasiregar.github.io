@@ -25,8 +25,7 @@ main {
   padding: 24px;
   margin-top: 24px;
   border-radius: 25px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
-  background-color: rgba(235, 197, 238, 0.8156862745);
+  background-color: rgba(202, 144, 197, 0.5058823529);
 }
 
 footer {
@@ -66,18 +65,12 @@ nav li a {
 }
 nav li a:hover:not(.active) {
   background-color: #e694ee;
-  color: black;
-  text-shadow: 1px 1px 2px black, 0 0 5px rgb(234, 0, 255);
 }
 
 .container {
-  width: 90%;
+  width: 80%;
   margin: auto;
   overflow: hidden;
-  padding: 20px;
-  border-radius: 17px;
-  background-color: rgba(174, 71, 184, 0.6980392157);
-  box-shadow: 0 4px 12px rgba(175, 39, 202, 0.952);
 }
 
 .profile-picture {
