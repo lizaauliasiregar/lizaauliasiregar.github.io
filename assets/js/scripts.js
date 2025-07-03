@@ -1,3 +1,3 @@
 function myFunction() {
-    alert("SEMANGAT SEMUANYA!!");
+    alert("SEMANGAT SEMUANYA😊✨!!");
 }
